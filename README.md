@@ -1,2 +1,1 @@
-I'm excited to share that I've published a a high-quality pest dataset named LP24 
-Feel free check it out and use it. Details and link: https://drive.google.com/drive/folders/19TtF0ZvfszIxxGH_XRkhQZmltAWdcpsK?usp=sharing.
+The dataset: LP24, which is available for the paper: "DAMI-YOLOv8l: A multi-scale detection framework for light-trapping insect pest monitoring" If you're interested in our work and the pest dataset, please feel free to contact master0808@126.com
